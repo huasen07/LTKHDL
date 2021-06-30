@@ -1,3 +1,4 @@
-Dữ liệu về thời tiết (pt trên data này) - https://www.kaggle.com/muthuj7/weather-dataset
+Dữ liệu về tai nạn ở Anh (pt trên data này) - https://www.kaggle.com/daveianhickey/2000-16-traffic-flow-england-scotland-wales/data?select=accidents_2012_to_2014.csv 
+Dữ liệu về thời tiết - https://www.kaggle.com/muthuj7/weather-dataset
 Đánh giá khóa học tài chính (dự phòng) - https://www.kaggle.com/jilkothari/finance-accounting-courses-udemy-13k-course
 Dữ liệu Covid ảnh hưởng từ sân bay (dự phòng) - https://www.kaggle.com/terenceshin/covid19s-impact-on-airport-traffic
